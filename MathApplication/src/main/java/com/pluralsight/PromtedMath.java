@@ -1,8 +1,6 @@
 package com.pluralsight;
-import javax.swing.*;
-import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
 import java.util.*;
-public class promtedMath {
+public class PromtedMath {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
